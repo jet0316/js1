@@ -1,1 +1,5 @@
-alert('Hello Boulder!');
+// alert('Hello Boulder!');
+
+var person = prompt("Please enter your name");
+
+alert('Hello ' + person)
